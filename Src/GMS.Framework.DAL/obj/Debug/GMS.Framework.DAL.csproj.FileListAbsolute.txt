@@ -1,0 +1,32 @@
+D:\搜狗高速下载\GMS\bin\GMS.Framework.DAL.XML
+D:\搜狗高速下载\GMS\bin\GMS.Framework.DAL.dll
+D:\搜狗高速下载\GMS\bin\GMS.Framework.DAL.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.dll
+D:\搜狗高速下载\GMS\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.csprojResolveAssemblyReference.cache
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.DAL.XML
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.DAL.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.DAL.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.csprojResolveAssemblyReference.cache
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.DAL.XML
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.DAL.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.DAL.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Framework.DAL.XML
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Framework.DAL.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Framework.DAL.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Framework.DAL.XML
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Framework.DAL.dll
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Framework.DAL.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.csprojResolveAssemblyReference.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Framework.DAL\obj\Debug\GMS.Framework.DAL.pdb

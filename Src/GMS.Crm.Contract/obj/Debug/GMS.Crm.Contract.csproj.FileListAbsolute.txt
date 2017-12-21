@@ -1,0 +1,25 @@
+D:\搜狗高速下载\GMS\bin\GMS.Crm.Contract.dll
+D:\搜狗高速下载\GMS\bin\GMS.Crm.Contract.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
+D:\搜狗高速下载\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csprojResolveAssemblyReference.cache
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Crm.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Crm.Contract.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Crm.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Crm.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Crm.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Crm.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Crm.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Crm.Contract.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Crm.Contract\obj\Debug\GMS.Crm.Contract.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+D:\搜狗高速下载\GMS\bin\GMS.Core.Upload.dll
+D:\搜狗高速下载\GMS\bin\GMS.Core.Upload.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+D:\搜狗高速下载\GMS\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Core.Upload.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Core.Upload.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Core.Upload.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Core.Upload.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Core.Upload.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Core.Upload.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Core.Upload.dll
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Core.Upload.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csprojResolveAssemblyReference.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Core.Upload\obj\Debug\GMS.Core.Upload.pdb

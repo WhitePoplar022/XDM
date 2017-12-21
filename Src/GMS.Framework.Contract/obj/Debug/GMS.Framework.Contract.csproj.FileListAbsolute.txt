@@ -1,0 +1,32 @@
+D:\搜狗高速下载\GMS\bin\GMS.Framework.Contract.XML
+D:\搜狗高速下载\GMS\bin\GMS.Framework.Contract.dll
+D:\搜狗高速下载\GMS\bin\GMS.Framework.Contract.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.dll
+D:\搜狗高速下载\GMS\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.Contract.XML
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.Contract.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csprojResolveAssemblyReference.cache
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.Contract.XML
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Framework.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Framework.Contract.XML
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Framework.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Framework.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Framework.Contract.XML
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Framework.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Framework.Contract.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csprojResolveAssemblyReference.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Framework.Contract\obj\Debug\GMS.Framework.Contract.pdb

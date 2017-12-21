@@ -1,0 +1,27 @@
+D:\搜狗高速下载\GMS\bin\GMS.Core.Log.dll
+D:\搜狗高速下载\GMS\bin\GMS.Core.Log.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.dll
+D:\搜狗高速下载\GMS\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Core.Log.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Core.Log.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csprojResolveAssemblyReference.cache
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Core.Log.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\bin\GMS.Core.Log.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Core.Log.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\bin\GMS.Core.Log.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Core.Log.dll
+E:\GitHub_Project\GMS（基于bootstrap）\bin\GMS.Core.Log.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csprojResolveAssemblyReference.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Core.Log\obj\Debug\GMS.Core.Log.pdb

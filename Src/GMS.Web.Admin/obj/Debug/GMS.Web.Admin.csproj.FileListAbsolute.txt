@@ -1,0 +1,277 @@
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll.config
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Web.Admin.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Account.Contract.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Cache.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Config.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Module.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Upload.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.Web.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.OA.Contract.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Web.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\Newtonsoft.Json.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\EntityFramework.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\DevTrends.MvcDonutCaching.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Log.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Service.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\log4net.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\Castle.Core.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Account.Contract.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Cache.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Config.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Module.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Upload.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.xml
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.xml
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.Web.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.OA.Contract.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Web.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\EntityFramework.xml
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Log.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Core.Service.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.pdb
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.xml
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csprojResolveAssemblyReference.cache
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.dll
+D:\搜狗高速下载\GMS\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll.config
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Account.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Cache.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Config.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Module.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Upload.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Web.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.OA.Contract.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Newtonsoft.Json.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\EntityFramework.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\DevTrends.MvcDonutCaching.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Log.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Service.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\log4net.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Castle.Core.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Account.Contract.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Cache.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Config.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Module.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Upload.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.xml
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.xml
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Web.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.OA.Contract.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\EntityFramework.xml
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Log.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Service.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.xml
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csprojResolveAssemblyReference.cache
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.dll
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.pdb
+D:\2015开发项目\2015个人文件整理\1. 项目框架及类库\1-2. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Razor.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll.config
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Account.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Cache.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Config.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Module.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Upload.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Web.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.OA.Contract.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Newtonsoft.Json.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Helpers.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\EntityFramework.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\DevTrends.MvcDonutCaching.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Log.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Service.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Razor.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Razor.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Deployment.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\log4net.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Castle.Core.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Account.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Cache.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Config.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Module.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Upload.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Web.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.OA.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Helpers.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\EntityFramework.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Log.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Service.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Razor.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Microsoft.Web.Infrastructure.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Deployment.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.pdb
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.xml
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.dll
+D:\XGY_Project\1. .NET开源框架\30. 完整项目收录（中级篇）\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll.config
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Account.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Cache.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Config.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Module.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Upload.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Web.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.OA.Contract.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Newtonsoft.Json.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Helpers.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\EntityFramework.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\DevTrends.MvcDonutCaching.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Log.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Service.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Razor.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Razor.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Microsoft.Web.Infrastructure.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Deployment.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\log4net.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Castle.Core.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Account.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Cache.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Config.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Module.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Upload.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Web.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.OA.Contract.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Helpers.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\EntityFramework.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Log.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Service.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Razor.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Microsoft.Web.Infrastructure.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Deployment.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.Helpers.resources.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.WebPages.resources.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.Razor.resources.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csprojResolveAssemblyReference.cache
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.pdb
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Razor.xml
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+D:\XGY_Project\1. .NET开源框架\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll.config
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.Admin.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Account.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Cache.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Config.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Module.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Upload.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Web.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.OA.Contract.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Newtonsoft.Json.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Helpers.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\EntityFramework.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\DevTrends.MvcDonutCaching.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Log.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Service.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Razor.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Razor.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Deployment.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\log4net.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Castle.Core.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Account.Contract.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Cms.Contract.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Cache.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Config.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Module.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Upload.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Crm.Contract.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Contract.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Utility.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.Web.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.OA.Contract.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Web.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Helpers.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\EntityFramework.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Log.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Core.Service.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.Razor.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Razor.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\Microsoft.Web.Infrastructure.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\System.Web.WebPages.Deployment.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.pdb
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\GMS.Framework.DAL.xml
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.Helpers.resources.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.WebPages.resources.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.Razor.resources.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csprojResolveAssemblyReference.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.csproj.CoreCompileInputs.cache
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.dll
+E:\GitHub_Project\GMS（基于bootstrap）\Src\GMS.Web.Admin\obj\Debug\GMS.Web.Admin.pdb
